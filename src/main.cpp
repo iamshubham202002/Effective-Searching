@@ -26,7 +26,7 @@ void help(){
 			"b>You can search for a particular entry if it exists in the table or not\n"
 			"c>For particular entry searching , search is based on primary key, so enter col[0] value of table to search\n\n"
 			"---------------------------------------------------------------------------------------------------"
-			"\n\t\t\tdesigned by:: \n\n\t\t\tShubham Pandey\n"
+			"\n\t\t\tcreated by::\n\n\t\t\tShubham Pandey\n"
 			"---------------------------------------------------------------------------------------------------");
 }
 
@@ -94,7 +94,7 @@ void input(){
 void start_system(){
 	system("clear");
 	printf("\n\t\t\tWELCOME\n\n");
-	printf("\t\tWelcome to deepDB monitor \n\n");
+	printf("\t\tWelcome to Effective Searching monitor \n\n");
 	//cout<<"\t\tType h for help and q for quit\n\n";
 	input();
 }
@@ -119,11 +119,11 @@ int main(int argc,char *argv[]) {
 				return 0;
 			}
 		}else{
-			printf("\nusage:: ./deepdb -u username -p password\n.exiting...\n\n");
+			printf("\nusage:: ./effectivesearching -u username -p password\n.exiting...\n\n");
 			return 0;
 		}
 	}else{
-		printf("\nusage:: ./deepdb -u username -p password\n.exiting...\n\n");
+		printf("\nusage:: ./effectivesearching -u username -p password\n.exiting...\n\n");
 		return 0;
 	}
 

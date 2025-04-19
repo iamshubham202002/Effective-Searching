@@ -4,11 +4,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-<img src="https://github.com/msdeep14/DeepDataBase/blob/master/images/deepdb.png" width="300" height="200" />
 
-*initial development* : [MiniDataBase](https://github.com/msdeep14/MiniDataBase)
+*initial development* : [MiniDataBase](https://github.com/iamshubham202002/Effective-Searching)
 
-References from - https://github.com/Bug-Assassins/DFC_query_builder
 
 ## QUERIES SUPPORTED BY SYSTEM
 1. SHOW Tables
@@ -51,17 +49,17 @@ Advantages of B+ Tree Indexing [here](https://www.tutorialcup.com/dbms/b-plus-tr
 System also calculates the time taken by the search algorithm.
  
 ## DEVELOPMENT:
-The whole project is initially done on eclipse platform(C/C++ perspective)-> in repo [MiniDataBase](https://github.com/msdeep14/MiniDataBase)
+The whole project is initially done on eclipse platform(C/C++ perspective)-> i
 
-Further modifications are done on Ubuntu System, [Atom](https://atom.io/) editor. Recent project is compiled on MacOS X.
+Further modifications are done on Ubuntu System, 
 
-For execution: Open directory DeepDatabase(branch:master) and on terminal
+For execution: Open directory Effective-Searching(branch:master) and on terminal
 
 1. Type **make clean** to clean all binary files.
 	
 2. Type **make**, it will compile the project.
 	
-3. Type **./deepdb -u user -p** for running project. Password is `pass`
+3. Type **./effectivesearching -u user -p** for running project. Password is `pass`
 
 ## IN DEVELOPMENT:
 For displaying the table contents, you have to select option 5 from menu and the queries supported by it are, do care about syntax, since complete parser is not implemented.

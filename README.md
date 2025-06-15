@@ -1,4 +1,4 @@
-# DeepDataBase
+# Effective Searching
 
 #### A Relational database model, data storage based on B+ tree indexing
 

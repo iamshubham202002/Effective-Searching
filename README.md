@@ -78,5 +78,8 @@ You can contribute in following modules:
 	3. Suggestion for more efficient implementation
 ## IMAGE
 here are the imgages of output
+"C:\Users\Hp\Downloads\db3.jpg"
+"C:\Users\Hp\Downloads\db2.jpg"
+"C:\Users\Hp\Downloads\db1.jpg"
 
  

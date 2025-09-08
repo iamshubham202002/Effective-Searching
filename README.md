@@ -77,5 +77,10 @@ You can contribute in following modules:
 	2. AES encryption of data, in branch dev-aes
 	3. Suggestion for more efficient implementation
 ## SCREENSHOT
-[WhatsApp Image 2025-04-02 at 10.01.25_30b8a21d.jpg](https://github.com/iamshubham202002/Effective-Searching/blob/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_30b8a21d.jpg)
-WhatsApp Image 2025-04-02 at 10.01.25_30b8a21d.jpg
+
+Here are some screenshots of the system in action:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_30b8a21d.jpg" alt="Screenshot 1" width="450"/>
+  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_49a4794c.jpg" alt="Screenshot 2" width="450"/>
+</p>

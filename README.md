@@ -81,6 +81,6 @@ You can contribute in following modules:
 Here are some screenshots of the system in action:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_30b8a21d.jpg" alt="Screenshot 1" width="450"/>
-  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_49a4794c.jpg" alt="Screenshot 2" width="450"/>
+  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_30b8a21d.jpg" alt="Screenshot 1"/>
+  <img src="https://raw.githubusercontent.com/iamshubham202002/Effective-Searching/master/WhatsApp%20Image%202025-04-02%20at%2010.01.25_49a4794c.jpg" alt="Screenshot 2" />
 </p>

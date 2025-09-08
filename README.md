@@ -76,10 +76,3 @@ You can contribute in following modules:
 	1. parser implementation
 	2. AES encryption of data, in branch dev-aes
 	3. Suggestion for more efficient implementation
-## IMAGE
-here are the imgages of output
-"C:\Users\Hp\Downloads\db3.jpg"
-"C:\Users\Hp\Downloads\db2.jpg"
-"C:\Users\Hp\Downloads\db1.jpg"
-
- 
